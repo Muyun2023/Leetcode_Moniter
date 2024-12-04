@@ -1,5 +1,5 @@
 # Leetcode_Moniter
-# A CDK project that notifies users about their LeetCode progress via email. Utilized Github Action to create an automated deployment pipeline
+## A CDK project that notifies users about their LeetCode progress via email. Utilized Github Action to create an automated deployment pipeline
 ```
 LeetCode Progress Tracker
 
